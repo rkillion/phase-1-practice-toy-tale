@@ -38,6 +38,12 @@ body {
   width: auto;
 }
 
+.like-image {
+  justify-self: center;
+  height: 1rem;
+  width: auto;
+}
+
 button {
   position: relative;
   background-color: #e04b52;
